@@ -74,7 +74,7 @@
 
 ## 💡 Featured Projects
 
-| Project | Description |
+| Projects | Description |
 |--------|-------------|
 | [**Glaucoma Detection**](https://github.com/SofiaRebecca/Glaucoma) | 7 Test-based deep learning system for early glaucoma diagnosis with explainable AI |
 | [**Facial Recognition Drone**](https://github.com/SofiaRebecca/Facial-Recognition-and-object-tracking) | Pixhawk + Haarcascade + Flask + Object Tracking |
