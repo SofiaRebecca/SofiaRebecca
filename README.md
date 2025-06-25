@@ -21,11 +21,12 @@
 
 </div>
 
-<div style="flex: 1; text-align: center; align-items: center; min-width: 300px;">
-  <img src="https://raw.githubusercontent.com/SofiaRebecca/SofiaRebecca/main/banner.gif" width="900" />
+<div style="flex: 1; display: flex; justify-content: center; align-items: center; min-width: 300px;">
+  <img src="https://raw.githubusercontent.com/SofiaRebecca/SofiaRebecca/main/banner.gif" width="700" />
 </div>
 
 </div>
+
 
 ---
 
