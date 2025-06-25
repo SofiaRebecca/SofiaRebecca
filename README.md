@@ -26,18 +26,6 @@
 </div>
 
 </div>
- 
-
----
-
-</td>
-<td width="30%" align="center">
-
-<img src="https://raw.githubusercontent.com/SofiaRebecca/SofiaRebecca/main/banner.gif" width="240px" />
-
-</td>
-</tr>
-</table>
 
 ---
 
