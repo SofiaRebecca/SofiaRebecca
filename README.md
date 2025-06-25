@@ -1,4 +1,4 @@
-<img src="https://github.com/SofiaRebecca/SofiaRebecca/banner.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/SofiaRebecca/SofiaRebecca/main/banner.gif" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Sofia Rebecca</h1>
 
