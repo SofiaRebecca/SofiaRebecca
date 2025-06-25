@@ -84,13 +84,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Fun Facts About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SofiaRebecca&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SofiaRebecca&theme=tokyonight" width="48%">
-</p>
-
+- 🎓 B.Tech CSE @ Dayananda Sagar University (2022–26)
+- 🧠 Addicted to solving AI problems at 2AM
+- ✈️ Born in Muscat, studied in Oman & India
+- 🎮 Gamer + Developer (Giggles N Joysticks ft. 5 retro games)
+- 💬 Can talk forever about Explainable AI, LSTMs, or dogs 🐶
 ---
 
 ## 🔄 GitHub Activity Graph
