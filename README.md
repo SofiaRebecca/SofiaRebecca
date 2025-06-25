@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sofia-rebecca-830475280" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://github.com/SofiaRebecca" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge" /></a>
-  <a href="https://github.com/SofiaRebecca/Glaucoma" target="_blank"><img src="https://img.shields.io/badge/-Glaucoma_Project-purple?style=for-the-badge" /></a>
+  <a href="https://instagram.com/_sxfia_.x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
