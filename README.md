@@ -21,8 +21,8 @@
 
 </div>
 
-<div style="flex: 1; text-align: center; min-width: 300px;">
-  <img src="https://raw.githubusercontent.com/SofiaRebecca/SofiaRebecca/main/banner.gif" width="950" />
+<div style="flex: 1; text-align: center; align-items: center; min-width: 300px;">
+  <img src="https://raw.githubusercontent.com/SofiaRebecca/SofiaRebecca/main/banner.gif" width="900" />
 </div>
 
 </div>
