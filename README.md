@@ -1,10 +1,10 @@
-<table>
-<tr>
-<td width="70%">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-<h1 align="left">Hi 👋, I'm Sofia Rebecca</h1>
+<div style="flex: 1; min-width: 300px;">
 
-<h3 align="left">B.Tech CSE @ Dayananda Sagar University | AI/ML Enthusiast | Deep Learning | Flask | OpenCV | NLP</h3>
+<h1>Hi 👋, I'm Sofia Rebecca</h1>
+
+<h3>B.Tech CSE @ Dayananda Sagar University | AI/ML Enthusiast | Deep Learning | Flask | OpenCV | NLP</h3>
 
 ---
 
@@ -16,6 +16,17 @@
 - ✍️ Learning: YOLO, Hugging Face Transformers, LSTMs, Attention, FastAPI  
 - 👯 Looking to collaborate on **Open Source AI Tools**  
 - 📫 Reach me: [sofia.beckah@gmail.com](mailto:sofia.beckah@gmail.com)  
+
+---
+
+</div>
+
+<div style="flex: 1; text-align: center; min-width: 300px;">
+  <img src="https://raw.githubusercontent.com/SofiaRebecca/SofiaRebecca/main/banner.gif" width="100%" />
+</div>
+
+</div>
+ 
 
 ---
 
