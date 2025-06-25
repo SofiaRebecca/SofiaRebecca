@@ -1,19 +1,32 @@
-<img src="https://raw.githubusercontent.com/SofiaRebecca/SofiaRebecca/main/banner.gif" width="600" />
+<table>
+<tr>
+<td width="70%">
 
-<h1 align="center">Hi 👋, I'm Sofia Rebecca</h1>
+<h1 align="left">Hi 👋, I'm Sofia Rebecca</h1>
 
-<h3 align="center">B.Tech CSE @ Dayananda Sagar University | AI/ML Enthusiast | Deep Learning | Flask | OpenCV | NLP</h3>
+<h3 align="left">B.Tech CSE @ Dayananda Sagar University | AI/ML Enthusiast | Deep Learning | Flask | OpenCV | NLP</h3>
 
 ---
 
 ### 🙋‍♀️ About Me
 
-- 🎓 Final Year B.Tech Student @ DSU
-- 💡 I’m passionate about AI, Deep Learning, Computer Vision, NLP, and System Design
-- 🔭 Currently working on: **Early Glaucoma Detection Platform using Deep Learning**
-- ✍️ Learning: YOLO, Hugging Face Transformers, LSTMs, Attention, FastAPI
-- 👯 Looking to collaborate on **Open Source AI Tools**
-- 📫 Reach me: [sofia.beckah@gmail.com](mailto:sofia.beckah@gmail.com)
+- 🎓 Final Year B.Tech Student @ DSU  
+- 💡 I’m passionate about AI, Deep Learning, Computer Vision, NLP, and System Design  
+- 🔭 Currently working on: **Early Glaucoma Detection Platform using Deep Learning**  
+- ✍️ Learning: YOLO, Hugging Face Transformers, LSTMs, Attention, FastAPI  
+- 👯 Looking to collaborate on **Open Source AI Tools**  
+- 📫 Reach me: [sofia.beckah@gmail.com](mailto:sofia.beckah@gmail.com)  
+
+---
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/SofiaRebecca/SofiaRebecca/main/banner.gif" width="240px" />
+
+</td>
+</tr>
+</table>
 
 ---
 
