@@ -110,9 +110,7 @@
 
 ---
 
-## 🐍 My Contribution Snake
-
-![snake animation](https://github.com/SofiaRebecca/SofiaRebecca/blob/output/github-contribution-grid-snake.gif)
+![Sofia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SofiaRebecca&theme=react-dark&show_icons=true&count_private=true&hide_border=true)
 
 ---
 
