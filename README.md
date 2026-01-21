@@ -110,9 +110,9 @@
 
 ---
 
-## 🔄 GitHub Activity Graph
+## 🐍 My Contribution Snake
 
-![Sofia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SofiaRebecca&theme=react-dark)
+![snake animation](https://github.com/SofiaRebecca/SofiaRebecca/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
