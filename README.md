@@ -110,7 +110,9 @@
 
 ---
 
-![Sofia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SofiaRebecca&theme=react-dark&show_icons=true&count_private=true&hide_border=true)
+## 🐍 My Contribution Snake
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/SofiaRebecca/SofiaRebecca/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
